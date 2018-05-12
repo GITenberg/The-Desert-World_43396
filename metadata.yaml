@@ -13,7 +13,7 @@ contributor:
     gutenberg_agent_id: '9466'
     url: http://www.gutenberg.org/2009/agents/9466
   - agent_name: Dargent, Yan
-    birthdate: &id001 1824
+    birthdate: 1824
     deathdate: 1899
     gutenberg_agent_id: '42180'
     url: http://www.gutenberg.org/2009/agents/42180
@@ -32,11 +32,13 @@ covers:
 creator:
   author:
     agent_name: Mangin, Arthur
-    birthdate: *id001
+    birthdate: 1824
     deathdate: 1887
     gutenberg_agent_id: '42177'
     url: http://www.gutenberg.org/2009/agents/42177
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43396#The-Desert-World
 gutenberg_issued: '2013-08-03'
 gutenberg_type: Text
 identifiers:
