@@ -1,0 +1,53 @@
+_repo: The-Desert-World_43396
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Freeman, William Henry, active 1839-1875‏
+    alias: Freeman, W. H. (William Henry)
+    gutenberg_agent_id: '42178'
+    url: http://www.gutenberg.org/2009/agents/42178
+  - agent_name: Foulquier, Jean Antoine Valentin
+    alias: Foulquier, V.‏ (Valentin)
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '9466'
+    url: http://www.gutenberg.org/2009/agents/9466
+  - agent_name: Dargent, Yan
+    birthdate: &id001 1824
+    deathdate: 1899
+    gutenberg_agent_id: '42180'
+    url: http://www.gutenberg.org/2009/agents/42180
+  translator:
+    agent_name: Adams, W. H. Davenport (William Henry Davenport)
+    aliases:
+    - Adams, W.H.
+    - Adams, William Henry Davenport
+    birthdate: 1828
+    deathdate: 1891
+    gutenberg_agent_id: '34969'
+    url: http://www.gutenberg.org/2009/agents/34969
+covers:
+- cover_type: archival
+  image_path: 43396-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mangin, Arthur
+    birthdate: *id001
+    deathdate: 1887
+    gutenberg_agent_id: '42177'
+    url: http://www.gutenberg.org/2009/agents/42177
+description: ''
+gutenberg_issued: '2013-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43396'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history'
+- !lcsh 'Deserts'
+- !lcc 'QH'
+title: The Desert World
+url: http://www.gutenberg.org/ebooks/43396
